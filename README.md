@@ -6,6 +6,10 @@
 
 npm install
 
+# Install chai
+
+npm install chai
+
 # Launch API
 ## Launch API
 
@@ -14,4 +18,4 @@ node index.js
 # Launch test
 ## Launch test
 
-npm test 
+npm run test 
